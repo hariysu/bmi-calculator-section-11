@@ -127,10 +127,10 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="heightLabel2" destination="Xcz-1j-2c9" id="od5-kS-EG9"/>
-                        <outlet property="heightSlider2" destination="Pky-qY-oVp" id="mRW-eM-NEK"/>
-                        <outlet property="weightLabel2" destination="LTF-aL-8qu" id="3lt-AY-ku2"/>
-                        <outlet property="weightSlider2" destination="s2X-C5-Zcz" id="eP5-jT-kAJ"/>
+                        <outlet property="heightLabel" destination="Xcz-1j-2c9" id="od5-kS-EG9"/>
+                        <outlet property="heightSlider" destination="Pky-qY-oVp" id="mRW-eM-NEK"/>
+                        <outlet property="weightLabel" destination="LTF-aL-8qu" id="3lt-AY-ku2"/>
+                        <outlet property="weightSlider" destination="s2X-C5-Zcz" id="eP5-jT-kAJ"/>
                         <segue destination="lkq-xS-Cin" kind="presentation" identifier="goToResult" id="T8Y-1U-b3d"/>
                     </connections>
                 </viewController>
